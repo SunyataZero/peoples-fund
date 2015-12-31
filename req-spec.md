@@ -4,7 +4,7 @@
 
 ## Target groups for this document
 
-Both tech and non-tech people. ***This document can be seen as the "interface" between these two groups***
+Both tech and non-tech people. ***This document can be seen as the "interface" between these two groups***, it is therefore important that both groups understand it and that the language used is not too technical
 
 ## Context
 
@@ -49,8 +49,79 @@ Building a website for the People's Fund for Global Health and Development
 
 * Priority: Medium
 * Usage: Applying for funding
-* Considerations: Mobile platforms, low bandwidth
+* Considerations: Mobile platforms, low bandwidth, other languages
 
 
+# Functional requirements
+
+## Static information pages
+
+* Who we are
+* What we do
+* Where we work
+* ~~Apply for funding~~ - se below
+* Support us
+
+## Funding application form
+
+Q: Do we want to put this on a separate website? (Ex: apply.thepeoples.fund)
+
+
+# Non-functional requirements
+
+## Low to medium bandwith
+
+## Mobile version
+"Responsive" website theme
+
+We would like to use the mobile version of the website as a low-bandwidth version
+
+## Other languages than English
+
+
+# Graphical presentation
+
+## Coursel
+
+# Appendix A: Websites we like
+
+http://www.uniteforsight.org/
+https://www.amnesty.org/en/
+http://www.theglobalfund.org/en/
+
+> I think a common feature that I love about these websites, is the large, beautiful, colorful images everywhere, the large simple icons to click on, and the fact that you just scroll down and get little bits of important information, no wall of text, and a lot becomes available just by scrolling down, you don't have to do many clicks and navigate much to reach core information on the organisation, as exemplified here for instance: https://www.amnesty.org/en/who-we-are/
+
+
+# Appendix B: Website structure
+
+* Who we are
+  * Management
+    * Board
+    * Audit Committee
+    * Country Ambassadors
+  * Communications
+  * Human Resources
+* What we do
+  * Mission, Vision and Values
+  * Fundraising
+  * Causes
+  * Microfinancing
+  * Health and Development Projects
+    * Application Rating System
+    * Project Evaluation Portal
+* Where we work
+* Apply for funding
+  * Requirements
+  * Application processing
+  * Online Application Portal
+    * Applicant Registration
+    * Contact information
+    * Basic Project Information
+    * Budget
+    * Project Information
+  * Attachments
+* Support us
+  * Become a member
+  * Take action
 
 
