@@ -1,5 +1,4 @@
 
-
 # Intro
 
 ## Target groups for this document
@@ -9,12 +8,12 @@ Both tech and non-tech people. ***This document can be seen as the "interface" b
 ## Context
 
 The People's Fund has various ways to communicate outward:
-* 
 * Presence on the web:
   * Facebook
   * Twitter
   * Other social media
-  * **The website**
+  * **The website** - this is where this document comes in
+* Other ways to communicate
 
 ## Scope
 
@@ -66,6 +65,10 @@ Building a website for the People's Fund for Global Health and Development
 
 Q: Do we want to put this on a separate website? (Ex: apply.thepeoples.fund)
 
+## Blog posts (news items)
+
+Q: Do we want this to be a part of the website? (or are we keeping this only to the social media?)
+
 
 # Non-functional requirements
 
@@ -76,18 +79,26 @@ Q: Do we want to put this on a separate website? (Ex: apply.thepeoples.fund)
 
 We would like to use the mobile version of the website as a low-bandwidth version
 
-## Other languages than English
+## Languages other than English
 
 
 # Graphical presentation
 
 ## Coursel
 
+## Large images
+
+## Modern look
+
+## Simplicity
+* No wall of text on first or secondary pages
+
+
 # Appendix A: Websites we like
 
-http://www.uniteforsight.org/
-https://www.amnesty.org/en/
-http://www.theglobalfund.org/en/
+* http://www.uniteforsight.org/
+* https://www.amnesty.org/en/
+* http://www.theglobalfund.org/en/
 
 > I think a common feature that I love about these websites, is the large, beautiful, colorful images everywhere, the large simple icons to click on, and the fact that you just scroll down and get little bits of important information, no wall of text, and a lot becomes available just by scrolling down, you don't have to do many clicks and navigate much to reach core information on the organisation, as exemplified here for instance: https://www.amnesty.org/en/who-we-are/
 
@@ -123,5 +134,13 @@ http://www.theglobalfund.org/en/
 * Support us
   * Become a member
   * Take action
+
+
+# Appendix C: Considerations when choosing a theme
+
+* Responsive
+* Customizable color
+* Compatible with extensions
+
 
 
