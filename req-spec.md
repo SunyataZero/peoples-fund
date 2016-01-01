@@ -59,11 +59,19 @@ Building a website for the People's Fund for Global Health and Development
 * What we do
 * Where we work
 * ~~Apply for funding~~ - se below
-* Support us
+* ~~Support us~~ - se below
 
-## Funding application form
+## Funding application ("Apply for funding")
 
 Q: Do we want to put this on a separate website? (Ex: apply.thepeoples.fund)
+
+## Funding evalution
+
+> The rating portal: How to translate an equation of weighted variables (i.e. impact rating *08 + sustainability rating *0.7 + cost-effectiveness rating * 0.6 ... = Total rating) into code. This would be in a portal environment where you first read about the project and click rating values from 1-5 on a number of different parameters.
+
+## Donations ("Support us")
+
+## User registration
 
 ## Blog posts (news items)
 
@@ -80,6 +88,10 @@ Q: Do we want this to be a part of the website? (or are we keeping this only to 
 We would like to use the mobile version of the website as a low-bandwidth version
 
 ## Languages other than English
+
+## Secure payments
+
+https may be needed from the web host
 
 
 # Graphical presentation
