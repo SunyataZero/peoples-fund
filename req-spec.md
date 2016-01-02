@@ -58,8 +58,8 @@ Building a website for the People's Fund for Global Health and Development
 * Who we are
 * What we do
 * Where we work
-* ~~Apply for funding~~ - se below
-* ~~Support us~~ - se below
+* ~~Apply for funding~~ - see below
+* ~~Support us~~ - see below
 
 ## Funding application ("Apply for funding")
 
@@ -75,7 +75,9 @@ Q: Do we want to put this on a separate website? (Ex: apply.thepeoples.fund)
 
 ## Blog posts (news items)
 
-Q: Do we want this to be a part of the website? (or are we keeping this only to the social media?)
+### Website and social media synchronized
+
+> We will write news updates every once in a while, so Website, facebook and twitter in synchrony is exactly where we want to be.
 
 
 # Non-functional requirements
