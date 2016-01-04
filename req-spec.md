@@ -91,9 +91,13 @@ We would like to use the mobile version of the website as a low-bandwidth versio
 
 ## Languages other than English
 
-## Secure payments
+## Secure payments and user data privacy
 
 https may be needed from the web host
+
+## Good data storage
+
+TBD: Investigate what this means
 
 
 # Graphical presentation
