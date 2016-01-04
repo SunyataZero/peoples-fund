@@ -3,7 +3,7 @@
 
 ## Target groups for this document
 
-Both tech and non-tech people. ***This document can be seen as the "interface" between these two groups***, it is therefore important that both groups understand it and that the language used is not too technical
+Both tech and non-tech people. **This document can be seen as the "interface" between these two groups**, it is therefore important that both groups understand it and that the language used is not too technical
 
 ## Context
 
@@ -61,15 +61,18 @@ Building a website for the People's Fund for Global Health and Development
 * ~~Apply for funding~~ - see below
 * ~~Support us~~ - see below
 
-## Funding application ("Apply for funding")
+## *Funding application ("Apply for funding")*
 
 Q: Do we want to put this on a separate website? (Ex: apply.thepeoples.fund)
 
-## Funding evalution
+## *Funding evalution*
 
 > The rating portal: How to translate an equation of weighted variables (i.e. impact rating *08 + sustainability rating *0.7 + cost-effectiveness rating * 0.6 ... = Total rating) into code. This would be in a portal environment where you first read about the project and click rating values from 1-5 on a number of different parameters.
 
 ## Donations ("Support us")
+
+### Storing donation records
+.. in our own database
 
 ## User registration
 
@@ -89,7 +92,7 @@ Q: Do we want to put this on a separate website? (Ex: apply.thepeoples.fund)
 
 We would like to use the mobile version of the website as a low-bandwidth version
 
-## Languages other than English
+## *Languages other than English*
 
 ## Secure payments and user data privacy
 
