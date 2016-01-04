@@ -107,6 +107,8 @@ https may be needed from the web host
 ## Simplicity
 * No wall of text on first or secondary pages
 
+## Full-width images
+
 
 # Appendix A: Websites we like
 
