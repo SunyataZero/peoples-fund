@@ -1,5 +1,5 @@
 
-# Intro
+# Introduction
 
 ## Target groups for this document
 
@@ -20,15 +20,11 @@ The People's Fund has various ways to communicate outward:
 ## References
 [http://thepeoples.fund/](http://thepeoples.fund/)
 
-
 ## Objectives
 
 Building a website for the People's Fund for Global Health and Development
 
-
 # Target groups
-
-## People who are interested in contributing money to help out
 
 ## Young professionals and students in High-income countries
 > 18-40 year old's primarily, i.e. Young/mid-career professionals and students. Our intended primary source of funding, a bit of a people's movement appeal, a dash of grassroots, so a modern look, large images, not very dissimilar to what amnesty and the Global Fund to Fight TB, Aids and Malaria are doing. But still highly professional and clean, we're investing people's money on their behalf so we want to signal that we're capable of doing that in a responsible way.
@@ -64,7 +60,7 @@ Our primary rating and voting group: We aim for this to be our major membership 
 
 ## *Funding application ("Apply for funding")*
 
-Q: Do we want to put this on a separate website? (Ex: apply.thepeoples.fund). A (FF): Whatever's practically the easiest/smartest in the long term.
+Will probably be put on the website (rather than in a separate portal)
 
 ## *Funding evalution*
 
@@ -73,6 +69,7 @@ Q: Do we want to put this on a separate website? (Ex: apply.thepeoples.fund). A 
 ## Donations ("Support us")
 
 ### Storing donation records
+
 In a safe database, from which we can get an anonymized overview of our member characteristics (gender, age, geography and so on)
 
 ## User registration
@@ -102,7 +99,6 @@ https may be needed from the web host
 ## Good data storage
 
 TBD: Investigate what this means
-
 
 # Graphical presentation
 
