@@ -147,21 +147,21 @@ To keep the reader's eyes peeled and create footholds while reading, and give ea
    * Microfinancing
    * Health and Development Projects
      * Child Health
-    * Communicable Diseases
-    * Education
-    * Energy and Environment
-    * Food Production and Nutrition
-    * Health Systems
-    * Peace, Justice and Human Rights
-    * Lesbian, Gay, Bisexual and Transgender
-    * Maternal Health
-    * Mental Health
-    * Non-Communicable Diseases
-    * Policy and Governance
-    * Poverty
-    * Refugees
-    * Water, Sanitation and Hygiene (WaSH)
-    * Women’s Empowerment
+     * Communicable Diseases
+     * Education
+     * Energy and Environment
+     * Food Production and Nutrition
+     * Health Systems
+     * Peace, Justice and Human Rights
+     * Lesbian, Gay, Bisexual and Transgender
+     * Maternal Health
+     * Mental Health
+     * Non-Communicable Diseases
+     * Policy and Governance
+     * Poverty
+     * Refugees
+     * Water, Sanitation and Hygiene (WaSH)
+     * Women’s Empowerment
   * Application Rating System
   * Project Evaluation Portal
 * Where we work
