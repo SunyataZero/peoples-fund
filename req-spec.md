@@ -77,14 +77,18 @@ In a safe database, from which we can get an anonymized overview of our member c
 ## Blog posts (news items)
 
 ### Website and social media synchronized
+* Priority: ___
 
 > We will write news updates every once in a while. Posts to Website, facebook and twitter in synchrony is exactly what we want.
 
 # Non-functional requirements
 
 ## Low to medium bandwith
+* Priority: ___
 
 ## Mobile version
+* Priority: ___
+
 "Responsive" website theme
 
 We would like to use the mobile version of the website as a low-bandwidth version
@@ -103,18 +107,25 @@ TBD: Investigate what this means
 # Graphical presentation
 
 ## Image carousel
+* Priority: ___
 
 ## Large images
 - including lots of images along the text that keeps the reader stimulated and emphasises key topics in the text
+
+* Priority: ___
+
 ## Modern look
 
 ## Simplicity
 * No wall of text on first or secondary pages
 
 ## Full-width images
+* Priority: ___
 
 ## Large quotes from text
 To keep the reader's eyes peeled and create footholds while reading, and give easy quick impressions for people who just glance at the website
+
+* Priority: ___
 
 ## The feature where the text kind of scrolls up on top of the main image on each page. Like a 3D-effect. Because it's awesome.
 
