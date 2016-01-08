@@ -106,8 +106,17 @@ TBD: Investigate what this means
 
 # Graphical presentation
 
+## Front page structure
+Priority: Low (this structure is flexible)
+
+* Menu: Holds links to all the static pages
+* Carousel - see below
+* Categories: Links to articles of different types
+
 ## Image carousel
 * Priority: ___
+
+Has large images which are links to important ("highlighted") stories
 
 ## Large images
 - including lots of images along the text that keeps the reader stimulated and emphasises key topics in the text
@@ -138,7 +147,7 @@ To keep the reader's eyes peeled and create footholds while reading, and give ea
 
 > FF: I think a common feature that I love about these websites, is the large, beautiful, colorful images everywhere, the large simple icons to click on, and the fact that you just scroll down and get little bits of important information, no wall of text, and a lot becomes available just by scrolling down, you don't have to do many clicks and navigate much to reach core information on the organisation, as exemplified here for instance: https://www.amnesty.org/en/who-we-are/
 
-# Appendix B: Website structure
+# Appendix B: Website data structure
 
 * Who we are
   * Management
