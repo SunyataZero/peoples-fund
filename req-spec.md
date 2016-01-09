@@ -48,28 +48,28 @@ Our primary rating and voting group: We aim for this to be our major membership 
 * Target roles: Contributing, volunteering rating and voting
 * Considerations: Simplicity
 
+## Country ambassadors
+* Priority: Low
+
 # Functional requirements
 
 ## Static information pages
-
-* Who we are
-* What we do
-* Where we work
-* ~~Apply for funding~~ - see below
-* ~~Support us~~ - see below
+See "Appendix B: Website data structure"
 
 ## *Funding application ("Apply for funding")*
+Aka: "Project application submission portal"
 
-Will probably be put on the website (rather than in a separate portal)
+Will most probably be put on the website (rather than in a separate portal) so everything easily integrated into one plugin/module
 
-## *Funding evalution*
+## *Funding evalution portal*
 
 > The rating portal: How to translate an equation of weighted variables (i.e. impact rating *08 + sustainability rating *0.7 + cost-effectiveness rating * 0.6 ... = Total rating) into code. This would be in a portal environment where you first read about the project and click rating values from 1-5 on a number of different parameters, with some help on the way, including any tricks that make it fun to rate, and some control mechanisms to ensure that the user has actually read the application, and then a final thank you/pad on your shoulder when you're done rating a project.
 
 ## Donations ("Support us")
 
-### Storing donation records
+## Discussion forum
 
+### Storing donation records
 In a safe database, from which we can get an anonymized overview of our member characteristics (gender, age, geography and so on)
 
 ## User registration
