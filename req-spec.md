@@ -77,17 +77,17 @@ In a safe database, from which we can get an anonymized overview of our member c
 ## Blog posts (news items)
 
 ### Website and social media synchronized
-* Priority: ___
+* Priority: high
 
 > We will write news updates every once in a while. Posts to Website, facebook and twitter in synchrony is exactly what we want.
 
 # Non-functional requirements
 
 ## Low to medium bandwith
-* Priority: ___
+* Priority: medium/high
 
 ## Mobile version
-* Priority: ___
+* Priority: medium/high
 
 "Responsive" website theme
 
@@ -114,14 +114,14 @@ Priority: Low (this structure is flexible)
 * Categories: Links to articles of different types
 
 ## Image carousel
-* Priority: ___
+* Priority: medium/low
 
 Has large images which are links to important ("highlighted") stories
 
 ## Large images
 - including lots of images along the text that keeps the reader stimulated and emphasises key topics in the text
 
-* Priority: ___
+* Priority: medium/high
 
 ## Modern look
 
@@ -129,12 +129,12 @@ Has large images which are links to important ("highlighted") stories
 * No wall of text on first or secondary pages
 
 ## Full-width images
-* Priority: ___
+* Priority: medium/high
 
 ## Large quotes from text
 To keep the reader's eyes peeled and create footholds while reading, and give easy quick impressions for people who just glance at the website
 
-* Priority: ___
+* Priority: low
 
 ## The feature where the text kind of scrolls up on top of the main image on each page. Like a 3D-effect. Because it's awesome.
 
