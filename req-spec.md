@@ -136,7 +136,7 @@ To keep the reader's eyes peeled and create footholds while reading, and give ea
 
 * Priority: low
 
-## The feature where the text kind of scrolls up on top of the main image on each page. Like a 3D-effect. Because it's awesome.
+***
 
 # Appendix A: Websites we like
 
@@ -144,6 +144,7 @@ To keep the reader's eyes peeled and create footholds while reading, and give ea
 * https://www.amnesty.org/en/
 * http://www.theglobalfund.org/en/
 * http://www.pih.org
+* https://internationalmedicalcorps.org
 
 > FF: I think a common feature that I love about these websites, is the large, beautiful, colorful images everywhere, the large simple icons to click on, and the fact that you just scroll down and get little bits of important information, no wall of text, and a lot becomes available just by scrolling down, you don't have to do many clicks and navigate much to reach core information on the organisation, as exemplified here for instance: https://www.amnesty.org/en/who-we-are/
 
