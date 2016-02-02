@@ -68,7 +68,13 @@ Will most probably be put on the website (rather than in a separate portal) so e
 ## Donations ("Support us")
 
 ## Discussion forum
-
+  * General member discussion forum
+   * All members and volunteers have read and write access to this forum. Will be the largest forum, available to everyone with a login
+  * Country-level volunteers forums
+   * One for each country we have country ambassadors in, and then all the volunteers in that country can login to his/her individual country forum
+    * All board members, all country ambassadors and all admin accounts have read and write access to all country-level forums
+    * Within-country volunteers have read and write access to the forum within their country
+ 
 ### Storing donation records
 In a safe database, from which we can get an anonymized overview of our member characteristics (gender, age, geography and so on)
 
