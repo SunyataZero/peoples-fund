@@ -61,11 +61,19 @@ Aka: "Project application submission portal"
 
 Will most probably be put on the website (rather than in a separate portal) so everything easily integrated into one plugin/module
 
-## *Funding evalution portal*
+## *Funding evalution system*
 
-> The rating portal: How to translate an equation of weighted variables (i.e. impact rating *08 + sustainability rating *0.7 + cost-effectiveness rating * 0.6 ... = Total rating) into code. This would be in a portal environment where you first read about the project and click rating values from 1-5 on a number of different parameters, with some help on the way, including any tricks that make it fun to rate, and some control mechanisms to ensure that the user has actually read the application, and then a final thank you/pad on your shoulder when you're done rating a project.
+> Step 1: Alignment with local country priorities using data from http://data.myworld2015.org - only projects that align with the top 5 priorities within the country can be funded. Data will have to be corrected for gender and education level. 
+
+> Step 2: A local survey (logistically very complicated - suggestions very welcome!!). Mobile phone based surveymonkey-survey? Paper?
+
+> Step 3: The member rating portal: How to translate an equation of weighted variables (i.e. impact rating *08 + sustainability rating *0.7 + cost-effectiveness rating * 0.6 ... = Total rating) into code. This would be in a portal environment where you first read about the project and click rating values from 1-5 on a number of different parameters, with some help on the way, including any tricks that make it fun to rate, and some control mechanisms to ensure that the user has actually read the application, and then a final thank you/pad on your shoulder when you're done rating a project.
 
 ## Donations ("Support us")
+
+> one-time donation button
+
+> recurring membership payments
 
 ## Discussion forum
   * General member discussion forum
