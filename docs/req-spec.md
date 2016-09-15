@@ -49,12 +49,10 @@ Our primary rating and voting group: We aim for this to be our major membership 
 * Target roles: Extracting information about donations and memberships, Maintaining the information on the website
 * Considerations: 
 
+
 # Scenarios
 
-TBD
-
-For example:
-* User A has heard of the organization through a friend and visits the website interested in learning more and potentially becoming a member
+See [this link](https://docs.google.com/drawings/d/1aK-hD3HEPjZJmITz9CofPmOo0pkR2ln5N3Mf7iCBaNI)
 
 
 # Functional requirements
