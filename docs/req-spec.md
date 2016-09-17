@@ -68,13 +68,12 @@ Name | Priority | Notes
 Email | Essential |
 Password | Essential |
 Membership | - | See below
-Country | High |
-Address | High |
-Gender | High |
-Age | High |
-Profession | Low |
-Main areas of interest | Low | list of topic areas that can be added to an empty list to the right of it by clicking a button: [>>] 
-
+Country | Essential |
+Address | Essential |
+Gender | Essential |
+Birthday | Essential |
+Profession | Medium |
+Main areas of interest | Medium | list of topic areas that can be added to an empty list to the right of it by clicking a button: [>>] 
 ### Website and organization membership
 * Priority: High
 * Description: A user who has a login is a member and vice versa. You become a member by signing up on the website. The membership status will be stored in a database. *This will be the important interface to the future functionality* when we want users to vote, and when we want people to apply for funds
@@ -96,7 +95,7 @@ IMPORTANT: We will need two login-systems: One for members, and one for applican
 * *passive members* are members only. They can apply for funding if they want to. IMPORTANT: If passive members apply for funding in a grant cycle, they are automatically omitted from being able to rate their own or competing projects in that cycle.
 
 ## Recurring payments
-* Priority: High
+* Priority: Essential
 * Description: The user can register recurring payments through the website
 * Limitation: This does not cover ending the recurring payment
 * Risk at system change: 
@@ -138,11 +137,12 @@ IMPORTANT: We will need two login-systems: One for members, and one for applican
 * Description: We will use this as our fee payment system.
 
 ## Making one-time donations
-* Priority: High
+* Priority: Essential
 * Note: Needs to be possible to make anonymous donations.
 
 ### Connecting one-time donations to membership
-* Priority: - should not be done, it should be possible to just donate and not be a member.
+* Priority: Medium
+* Description: Note: it should be possible to just donate and not be a member, so should only be stored for our members, if they don't use the option of anonymous donation.
 
 ### Storing history of one-time donations for each user
 * Priority: medium
