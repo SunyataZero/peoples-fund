@@ -1,6 +1,6 @@
 
 ## Security risks
-Details not discussed here
+Details not discussed here, instead if you have access you can load [this document](https://drive.google.com/open?id=19HMuYRhF7ktQZBxwdGCj4kNgfTbD29X9EBWp0pVIIyw)
 
 
 ## Data loss
