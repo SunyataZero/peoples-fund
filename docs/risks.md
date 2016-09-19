@@ -17,3 +17,10 @@ Because of lack of time
 ### Measures we can take
 * Improve documentation so other people can take over
 * Finding other people willing to help out
+
+
+## Efficiency and maintenance
+
+  PMP is not good at handling many different groups of donations, so if the number of donation levels increase in the future we may need to switch. (But there may be a nice JavaScript solution or other workaround)
+
+
