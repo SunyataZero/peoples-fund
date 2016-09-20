@@ -112,6 +112,10 @@ IMPORTANT: We will need two login-systems: One for members, and one for applican
 ### Connecting recurring payments to membership
 * Priority: High
 
+### Verifying country of origin
+* Description: To lower the risk of vote manipulation
+* Priority: High
+
 ### Different recurring payment amounts depending on country
 * Priority: High
 * Description: 6 groups of countries. Base monthly fees (USD): 8, 7, 6, 5, 4, 0.
