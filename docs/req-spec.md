@@ -161,4 +161,8 @@ IMPORTANT: We will need two login-systems: One for members, and one for applican
 
 Security, etc
 
+## Annual spending limitation
+We have about $50 per year to spend on plugins
+
+TBD: What is the total sum we can spend on the website per year?
 
