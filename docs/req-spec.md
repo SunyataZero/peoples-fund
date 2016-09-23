@@ -159,7 +159,10 @@ IMPORTANT: We will need two login-systems: One for members, and one for applican
 
 # Non-functional requirements
 
-Security, etc
+## Security
+
+If you have access you can view the security reqs:
+https://docs.google.com/document/d/15bqmE4sUtFoCOZ_ZS85y-yU8SASEVYSFhcC-dPQPvpI/edit
 
 ## Annual spending limitation
 We have about $50 per year to spend on plugins
