@@ -156,6 +156,10 @@ IMPORTANT: We will need two login-systems: One for members, and one for applican
 * Priority: High
 * Description: Accepting one-time donations via Stripe.
 
+### Possible to make one-time donations for users who are not logged in
+* Priority: High
+* Description: 
+
 
 # Non-functional requirements
 
