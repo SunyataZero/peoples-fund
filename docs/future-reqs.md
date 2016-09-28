@@ -45,3 +45,9 @@ https may be needed from the web host
 ## Good data storage
 
 TBD: Investigate what this means
+
+
+## Paypal integration for one-time donations
+
+## Paypal integration for membership payments
+
