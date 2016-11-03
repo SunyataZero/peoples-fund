@@ -83,12 +83,16 @@ Support:
 ***Please note: This is probably the weakest link in the website back-end***
 
 Home:
+* https://civicrm.org/extensions/stripe-payment-processor
 * https://github.com/drastik/com.drastikbydesign.stripe
+* https://drastikbydesign.com/blog-entry/civicrm-stripe-payment-processor
 
 Documentation:
-* 
+* The best documentation is in the github readme file: https://github.com/drastik/com.drastikbydesign.stripe
 
 Support:
+* Issues are listed here: https://github.com/drastik/com.drastikbydesign.stripe/issues
+* Some comments can be found here: https://drastikbydesign.com/blog-entry/civicrm-stripe-payment-processor
 * Questions about CiviCRM and stripe can be found here: http://civicrm.stackexchange.com/questions/tagged/stripe
 
 
