@@ -1,9 +1,16 @@
 
 ## Hosting: CiviHosting
 
-## Web platform: Drupal
+Has automated backup:
+> Do you make backups of my data?
+> Yes, we run a full backup of your files and databases automatically every 24 hours. We store those on a physically separate server for 7 days. You thus have 7 full backups of your data. You have access to these backups to restore the data whenever you want.
+> You can also create a Personal Backup whenever you want and download that to your PC.
+
+## Web platform: Drupal 7
 
 ### Modules
+
+#### _
 
 ## CiviCRM
 
