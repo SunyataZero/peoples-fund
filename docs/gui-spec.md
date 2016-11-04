@@ -3,31 +3,13 @@
 Priority: Low (this structure is flexible)
 
 * Menu: Holds links to all the static pages
-* Carousel - see below
-* Categories: Links to articles of different types
-
-## Image carousel
-* Priority: medium/low
-
-Has large images which are links to important ("highlighted") stories
-
-## Large images
-- including lots of images along the text that keeps the reader stimulated and emphasises key topics in the text
-
-* Priority: medium/high
+* Description of what we do
+* Take action stuff
 
 ## Modern look
 
 ## Simplicity
 * No wall of text on first or secondary pages
-
-## Full-width images
-* Priority: medium/high
-
-## Large quotes from text
-To keep the reader's eyes peeled and create footholds while reading, and give easy quick impressions for people who just glance at the website
-
-* Priority: low
 
 ## Low to medium bandwidth
 * Priority: medium/high
@@ -40,7 +22,6 @@ To keep the reader's eyes peeled and create footholds while reading, and give ea
 "Responsive" website theme
 
 We would like to use the mobile version of the website as a low-bandwidth version
-
 
 ***
 
