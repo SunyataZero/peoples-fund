@@ -51,6 +51,14 @@ We are using version 7 (rather than 8) for two reasons:
 * CiviCRM doesn't work with 8
 * 8 does not have all the modules that we want
 
+### Update
+
+Please note that update is different from upgrade. Update is moving within the minor versions like 7.x or 7.0.x, where "x" is the value that is changing. (Upgrade is moving between major versions and is something that is a much bigger task and that we don't want to do without careful consideration)
+
+Documentation: https://www.drupal.org/docs/7/updating-your-drupal-site/how-to-update-drupal-core TODO: Write own guide to how to updated
+
+Backups can be done from here: https://cp.s801.sureserver.com/archive/index.php (TODO: Need to test and verify this)
+
 ### Modules
 
 Drupal 7 is built so that the base is lean, so many modules are installed to get some important functionality
