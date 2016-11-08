@@ -207,10 +207,9 @@ Will most probably be put on the website (rather than in a separate portal) so e
 ## Blog posts (news items)
 
 ### Website and social media synchronized
-* Priority: high
+* Priority: Low
 
-> We will write news updates every once in a while. Posts to Website, facebook and twitter in synchrony is exactly what we want.
-
+> Not a priority anymore, we're not gonna do many blog posts and we can just post directly to FB
 
 ## *Languages other than English*
 will be a likely step at a later stage.
