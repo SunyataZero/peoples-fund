@@ -6,6 +6,8 @@
 ## Updating Drupal
 (Minor version update)
 
+***Please do not attempt this update without having consulted with a tech nerd first*** If you do please make sure to take a backup first, as described below
+
 *After having read the notes below in this section,* please follow these instructions: **https://www.drupal.org/node/1223018**
 
 The release notes for Drupal versions can be found here:
