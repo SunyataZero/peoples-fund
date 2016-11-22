@@ -1,0 +1,29 @@
+/**
+ * Place your custom styles here.
+ */
+
+div.pf-static-page-main{
+  font-size:18px;
+  line-height: 27px; /* This tool has been used to calculate the line height: https://pearsonified.com/typography/ */
+  max-width:580px;
+}
+
+div.pf-static-page-left{
+  font-size:18px;
+  line-height: 27px; /* This tool has been used to calculate the line height: https://pearsonified.com/typography/ */
+}
+
+img{
+max-width:100%;
+}
+
+/* PLEASE NOTE: This will not work well for mobile phones, perhaps we can use a @media query */
+img.pf-float-left{
+  float: right;
+  margin: 0 0 8px 8px;
+}
+
+.label{
+  color: black; /* This is for the CiviCRM pages that use labels on a white background */
+}
+
