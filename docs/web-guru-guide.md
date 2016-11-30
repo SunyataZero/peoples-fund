@@ -2,8 +2,9 @@
 ## Important admin pages
 
 
+## Updating modules
 
-## Updating Drupal
+## Updating Drupal core
 (Minor version update)
 
 ***Please do not attempt this update without having consulted with a tech nerd first*** If you do please make sure to take a backup first, as described below
@@ -15,6 +16,9 @@ https://www.drupal.org/project/drupal/releases
 
 Use this page to backup: the files and database:
 https://cp.s801.sureserver.com/archive/index.php
+
+Maintanence mode:
+http://peoplesfundglobal.org/admin/config/development/maintenance
 
 About the robots.txt and .htaccess files the CiviHosting support says this:
 > We don't normally edit those files, but sometimes our Support Team does. There is
