@@ -2,19 +2,32 @@
  * Place your custom styles here.
  */
 
+ul.pf-static-page-left{
+  list-style-type:none;
+  padding:0;
+  font-size:17px;
+  margin: 20px 0;
+  line-height: 25px;
+}
+
+/* At the time of writing: Used for sub-menu on two pages */
+li.pf-static-page-left{
+  margin: 10px 0;
+}
+
 div.pf-static-page-main{
   font-size:18px;
   line-height: 27px; /* This tool has been used to calculate the line height: https://pearsonified.com/typography/ */
   max-width:580px;
 }
 
-div.pf-static-page-left{
-  font-size:18px;
-  line-height: 27px; /* This tool has been used to calculate the line height: https://pearsonified.com/typography/ */
+img{
+  max-width:100%;
 }
 
-img{
-max-width:100%;
+img.pf-photo-small{
+  max-width:180px;
+  margin-bottom:10px;
 }
 
 /* PLEASE NOTE: This will not work well for mobile phones, perhaps we can use a @media query */
