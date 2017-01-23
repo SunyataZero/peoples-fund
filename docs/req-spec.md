@@ -94,31 +94,32 @@ IMPORTANT: We will need two login-systems: One for members, and one for applican
 * *active volunteers* are members only. They can not apply for funding.
 * *passive members* are members only. They can apply for funding if they want to. IMPORTANT: If passive members apply for funding in a grant cycle, they are automatically omitted from being able to rate their own or competing projects in that cycle.
 
-## Recurring payments
+## Membership fees
 * Priority: Essential
-* Description: The user can register recurring payments through the website
+* Description: 15, 13, 11, 9 and 0 € per year depending on country income group.
+* Risk at system change:
+
+## Recurring contributions
+* Priority: Essential
+* Description: The user can register recurring contributions through the website
 * Limitation: This does not cover ending the recurring payment
 * Risk at system change: 
 
-### Active recurring payments visible for admins
+### Active recurring contributions visible for admins
 * Priority: Medium
 * Description: Admins can see if a user is currently a member
 * Limitation: Please note that this does not cover a nice presentation, for example the admin may not be able to get a list of all current members. If we want this functionality it's best to put into a separate requirement. This requirement - as with other reqs - only covers the most basic functionality, in this case the possibility to see if a user is making recurring payments
 
-### Active recurring payments visible for user
+### Active recurring contributions visible for user
 * Priority: High
 * Description: People need to be able to see what they will be charged next month/on an annual basis
 
-### Connecting recurring payments to membership
+### Connecting recurring contributions to membership
 * Priority: High
 
 ### Verifying country of origin
 * Description: To lower the risk of vote manipulation
 * Priority: High
-
-### Different recurring payment amounts depending on country
-* Priority: High
-* Description: 6 groups of countries. Base monthly fees (USD): 8, 7, 6, 5, 4, 0.
 
 ### Yearly payments
 * Priority: Medium
@@ -137,6 +138,10 @@ IMPORTANT: We will need two login-systems: One for members, and one for applican
 * Decsription: People need to be able to see what they have paid in the past.
 
 ### Stripe integration for recurring payments
+* Priority: Medium
+* Description: We may give this option.
+
+### Paypal integration for recurring payments
 * Priority: High
 * Description: We will use this as our fee payment system.
 
@@ -153,8 +158,8 @@ IMPORTANT: We will need two login-systems: One for members, and one for applican
 * Description: only for non-anonymous donations, so we only register what people want us to register
 
 ### Stripe integration for one-time donations
-* Priority: High
-* Description: Accepting one-time donations via Stripe.
+* Priority: Medium
+* Description: Maybe.
 
 ### Possible to make one-time donations for users who are not logged in
 * Priority: High
