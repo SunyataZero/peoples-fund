@@ -4,27 +4,6 @@ To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
 and open the template in the editor.
 -->
-<!--
-            function onCountrySelected(iCountrySelection){
-                var tSelectedValue = iCountrySelection.value;
-                var tMembershipLink = document.getElementById("membershiplinkbutton");
-                switch(tSelectedValue){
-
-                    case "AO":
-                        tMembershipLink.innerHTML = "LIC text";
-                        tMembershipLink.setAttribute("href", "lic_link");
-                        break;
-
-                    case "DK":                        
-                    case "SE":
-                    default:
-                        tMembershipLink.innerHTML = "HIC text";
-                        tMembershipLink.setAttribute("href", "hic_link");
-                        break;
-                    
-                }
-            }
--->
 <html>
     <head>
         <title>Please select your country</title>
@@ -34,7 +13,7 @@ and open the template in the editor.
         <script type="text/javascript">
             
             
-            function onLinkButtonClicked(){
+            function onLinkButtonClicked(isMonthlyBool){
                 var tCountries = document.getElementById("countries");
                 //var tMembershipLink = document.getElementById("membershiplink");
                 var tCountrySg = tCountries.options[tCountries.selectedIndex].value;
@@ -130,8 +109,12 @@ and open the template in the editor.
                     case "VN":
                     case "ZM":
                     case "ZW":
-                    case "XK":                    
-                        window.location.href="Low-income country"
+                    case "XK":
+                        if(isMonthlyBool){
+                            window.location.href="Low-income country | Monthly"
+                        }else{
+                            window.location.href="Low-income country | Yearly"
+                        }
                         break;
                     case "DZ":
                     case "AG":
@@ -148,7 +131,11 @@ and open the template in the editor.
                     case "ZA":
                     case "TH":
                     case "TM":
-                        window.location.href="Middle-low-income country"
+                        if(isMonthlyBool){
+                            window.location.href="Middle-low-income country | Monthly"
+                        }else{
+                            window.location.href="Middle-low-income country | Yearly"
+                        }
                         break;
                     case "AZ":
                     case "BY":
@@ -161,7 +148,11 @@ and open the template in the editor.
                     case "RO":
                     case "TR":
                     case "VE":
-                        window.location.href="Middle-income country"
+                        if(isMonthlyBool){
+                            window.location.href="Middle-income country | Monthly"
+                        }else{
+                            window.location.href="Middle-income country | Yearly"
+                        }
                         break;
                     case "BS":
                     case "BR":
@@ -178,7 +169,11 @@ and open the template in the editor.
                     case "KN":
                     case "SC":
                     case "UY":
-                        window.location.href="Middle-high-income country"
+                        if(isMonthlyBool){
+                            window.location.href="Middle-high-income country | Monthly"
+                        }else{
+                            window.location.href="Middle-high-income country | Yearly"
+                        }
                         break;
                     case "AU":
                     case "AT":
@@ -218,7 +213,11 @@ and open the template in the editor.
                     case "GB":
                     case "US":
                     default:
-                        window.location.href="High-income country"
+                        if(isMonthlyBool){
+                            window.location.href="High-income country | Monthly"
+                        }else{
+                            window.location.href="High-income country | Yearly"
+                        }
                         break;
                 }
             }
@@ -228,14 +227,14 @@ and open the template in the editor.
         <p>Please select your country:</p>
 
         <!--
+        List taken from this page:
         http://www.freeformatter.com/iso-country-list-html-select.html
         -->
         <!--
-        <input list="countries" name="country">
         "datalist" support: http://caniuse.com/#feat=datalist
-        "select" support: No problem (html4)
+        "select" support: No problem (uses html4)
         -->
-        <select id="countries" onChange="onCountrySelected(this)">
+        <select id="countries">
             <option value="AF">Afghanistan</option>
             <!-- <option value="AX">Åland Islands</option> -->
             <option value="AL">Albania</option>
@@ -494,11 +493,22 @@ and open the template in the editor.
         
         <!-- Link to update: -->
         <br>
-        <button id="membershiplinkbutton"
+        <p>You can pay annually or monthly. If you pay monthly we require that you also make a donation, this is because ...</p>
+        <br>
+        <button id="annualmembershiplinkbutton"
             type="button"
             class="btn btn-default"
             style="color:white; background-color:#dd2d2c; padding-left:16px; padding-right:16px;"
-            onclick="onLinkButtonClicked()">Go</button>
+            onclick="onLinkButtonClicked(false)">
+            Pay annually
+        </button>
+        <button id="monthlymembershiplinkbutton"
+            type="button"
+            class="btn btn-default"
+            style="color:white; background-color:#dd2d2c; padding-left:16px; padding-right:16px;"
+            onclick="onLinkButtonClicked(true)">
+            Pay monthly
+        </button>
         <!--
         Alternatively we can use
         "input" with
