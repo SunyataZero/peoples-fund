@@ -170,9 +170,9 @@ and open the template in the editor.
                     case "SC":
                     case "UY":
                         if(isMonthlyBool){
-                            window.location.href="Middle-high-income country | Monthly"
+                            window.location.href="http://peoplesfundglobal.org/civicrm/contribute/transact?reset=1&id=11"
                         }else{
-                            window.location.href="Middle-high-income country | Yearly"
+                            window.location.href="http://peoplesfundglobal.org/civicrm/contribute/transact?reset=1&id=12"
                         }
                         break;
                     case "AU":
@@ -214,9 +214,9 @@ and open the template in the editor.
                     case "US":
                     default:
                         if(isMonthlyBool){
-                            window.location.href="High-income country | Monthly"
+                            window.location.href="http://peoplesfundglobal.org/civicrm/contribute/transact?reset=1&id=10"
                         }else{
-                            window.location.href="High-income country | Yearly"
+                            window.location.href="http://peoplesfundglobal.org/civicrm/contribute/transact?reset=1&id=9"
                         }
                         break;
                 }
@@ -493,22 +493,32 @@ and open the template in the editor.
         
         <!-- Link to update: -->
         <br>
-        <p>You can pay annually or monthly. If you pay monthly we require that you also make a donation, this is because ...</p>
         <br>
-        <button id="annualmembershiplinkbutton"
-            type="button"
-            class="btn btn-default"
-            style="color:white; background-color:#dd2d2c; padding-left:16px; padding-right:16px;"
-            onclick="onLinkButtonClicked(false)">
-            Pay annually
-        </button>
-        <button id="monthlymembershiplinkbutton"
-            type="button"
-            class="btn btn-default"
-            style="color:white; background-color:#dd2d2c; padding-left:16px; padding-right:16px;"
-            onclick="onLinkButtonClicked(true)">
-            Pay monthly
-        </button>
+        
+        <div class="row">
+            <p>You can pay annually or monthly. If you pay monthly we require that you also make a donation, this is because ...</p>
+            <div class="col-md-3">
+                <p>Option: Annual payments</p>
+                <button id="annualmembershiplinkbutton"
+                    type="button"
+                    class="btn btn-default"
+                    style="color:white; background-color:#dd2d2c; padding-left:16px; padding-right:16px;"
+                    onclick="onLinkButtonClicked(false)">
+                    Pay annually
+                </button>
+            </div>
+            <div class="col-md-3">
+                <p>Option: Monthly payments</p>
+                <button id="monthlymembershiplinkbutton"
+                    type="button"
+                    class="btn btn-default"
+                    style="color:white; background-color:#dd2d2c; padding-left:16px; padding-right:16px;"
+                    onclick="onLinkButtonClicked(true)">
+                    Pay monthly
+                </button>
+            </div>
+        </div>
+        
         <!--
         Alternatively we can use
         "input" with
