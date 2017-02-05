@@ -4,12 +4,37 @@
 
 1. Open the page editor for one of the site pages
 
-2. Change from "Full HTML" to "Plain text" (can be done at the bottom of the editing window:
+2. Change from "Full HTML" to "Plain text" (can be done at the bottom of the editing window)
+
+img4
+
+3. Find and click on the "image" toolbar button
+
+img5
+
+4. click on the browse server button
+
+img7
+
+5. click on the upload button
+
+img8
+
+6. click on "choose file"
+
+7. click on "upload"
+
+8. click on "insert file"
+The "URL" field should now contain the following:
+
+> /sites/default/files/home/peoplesfund/{name of image}
+
+9. click on "ok"
+
+***Please make sure that the page is not broken after you are done, in other words please check that things are working ok***
 
 
-Please make sure that the page is not broken after you are done, in other words please check that things are working ok
-
-## Option 2: The nerdy way
+## Option 2: The nerdy way (safer)
 
 1. Upload the file
   * Using and FTP client or
