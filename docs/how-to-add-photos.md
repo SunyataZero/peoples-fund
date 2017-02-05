@@ -6,19 +6,19 @@
 
 2. Change from "Full HTML" to "Plain text" (can be done at the bottom of the editing window)
 
-img4
+![](_img/Selection_004.png)
 
 3. Find and click on the "image" toolbar button
 
-img5
+![](_img/Selection_005.png)
 
 4. click on the browse server button
 
-img7
+![](_img/Selection_007.png)
 
 5. click on the upload button
 
-img8
+![](_img/Selection_008.png)
 
 6. click on "choose file"
 
