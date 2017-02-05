@@ -1,11 +1,22 @@
 # peoples-fund
 
-"bootstrap_peoplesfund" contains our sub-theme
+## Intro
 
-"docs" contains documentation for admins, requirements, etc
+This repository contains various files associated with the website for the organization "The People's Fund for Global Health and Development".
+
+Please note:
+* This is not a complete website, only some things are version controlled
+* The files contained here are of various type and are for different parts of the website
 
 URL: peoplesfundglobal.org
 
-Alternate URL: http://peoplesfund.s801.sureserver.com/
-(Chaning the URL requires a change in the civicrm.settings.php file, but this alternate url will work for drupal and may even give some access to civicrm)
+## Directory and file overview
+
+### bootstrap_peoplesfund
+contains our sub-theme
+
+### docs
+contains documentation for admins, requirements, etc
+
+### JS-page
 
