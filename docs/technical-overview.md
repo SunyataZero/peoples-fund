@@ -70,7 +70,7 @@ Drupal 7 is built so that the base is lean, so many modules are installed to get
 
 ### Version Control of texts
 
-Html for pages are version controlled inside Drupal 7. One exception is the footer which is not version controlled since the html for the footer is placed inside its own block
+Html for pages are version controlled inside Drupal 7. One exception is the footer which is not version controlled since the html for the footer is placed inside its own block. Instead we have the version control for the html of the footer inside this github repo
 
 
 ## CiviCRM
