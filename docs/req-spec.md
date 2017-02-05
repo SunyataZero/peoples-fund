@@ -178,6 +178,14 @@ We have about $50 per year to spend on plugins
 
 TBD: What is the total sum we can spend on the website per year?
 
+## Website compatible latest versions of major browsers
+
+Both mobile and desktop
+
+Desktop: Chrome, Firefox, TBD
+
+Mobile: Chrome, Firefox, TBD
+
 
 ***
 
