@@ -182,9 +182,9 @@ TBD: What is the total sum we can spend on the website per year?
 
 Both mobile and desktop
 
-Desktop: Chrome, Firefox, TBD
+Desktop: Chrome, Firefox, Internet Explorer, Safari
 
-Mobile: Chrome, Firefox, TBD
+Mobile: Chrome, Firefox
 
 
 ***
