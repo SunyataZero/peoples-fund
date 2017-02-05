@@ -184,7 +184,7 @@ Both mobile and desktop
 
 Desktop: Chrome, Firefox, Internet Explorer, Safari
 
-Mobile: Chrome, Firefox
+Mobile: Chrome, Firefox, Safari
 
 
 ***
