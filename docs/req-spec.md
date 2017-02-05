@@ -23,7 +23,7 @@ i.e. Young/mid-career professionals and students. Our intended primary source of
 
 ## 18-40 year old low- and middle income country (LMIC) inhabitants
 
-The group of people that we represent: We aim for this to be our major membership base. Most LMIC residents do not pay membership fees, but we really need them for expressing their oppinions, rating projects, voting for the board, and submitting applications for funding. 
+The group of people that we represent: We aim for this to be our major membership base. Most LMIC residents do not pay membership fees, but we really need them for expressing their opinions, rating projects, voting for the board, and submitting applications for funding. 
 
 * Priority: High
 * Target roles: rating, voting, applying for funding
