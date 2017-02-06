@@ -5,8 +5,7 @@ Details not discussed here, instead if you have access you can load [this docume
 
 ## Data loss
 
-### System change
-For example if we change from PMP to another way of storing data
+CiviHosting makes automated backups. If dataloss happens it's important that we contact them as soon as possible since there is a backup rotation (old backups are removed after a while)
 
 
 ## Personell loss
@@ -19,8 +18,9 @@ Because of lack of time
 * Finding other people willing to help out
 
 
-## Efficiency and maintenance
+## Incompatible tech
 
-  PMP is not good at handling many different groups of donations, so if the number of donation levels increase in the future we may need to switch. (But there may be a nice JavaScript solution or other workaround)
+After runnning an update various tech may become incompatible
 
+This is probably not a big problem since we are running pretty wide-spread tech in general
 
