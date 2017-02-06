@@ -40,3 +40,11 @@ img.pf-float-left{
   color: black; /* This is for the CiviCRM pages that use labels on a white background */
 }
 
+/* Thank you to Karin and Allen who gave this solution here:
+https://civicrm.stackexchange.com/questions/17057/contribution-pages-look-strange-on-mobile
+*/
+@media screen and (max-width: 768px){
+  body.page-civicrm-contribute-transact #crm-main-content-wrapper .crm-section .label {
+    float: none; text-align: left; width: auto;
+  }
+}
