@@ -7,7 +7,7 @@ This repository contains various files associated with the website for the organ
 
 URL: **https://peoplesfundglobal.org**
 
-Please note that this repository does not hold a complete website, only some things are version controlled here on GitHub. The files contained here are of various type and are for different parts of the website
+Please note that this repository does not hold a complete website, only some things are version controlled here on GitHub. (Some things are version controlled inside Drupal) The files contained here are of various type and are for different parts of the website. This repository also contains the docs directory which is not a part of the website itself but documentation about the website
 
 
 ## Directory and file overview
