@@ -50,4 +50,13 @@ to this directory: `/www/www/sites/default/files/home/peoplesfund/`
 
 Please note that the `/www/www` has been left out
 
+***
 
+### Appendix: Uploading images
+..without adding them using the drupal web interface
+
+1. Go to https://peoplesfundglobal.org/user
+
+2. Click on "File Browser"
+
+3. Click on "Upload" etc (see instructions under option 1 above)
