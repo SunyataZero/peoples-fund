@@ -8,7 +8,7 @@ Please note that these requirements may change in the future. This may result in
 
 ## Context
 
-See the [GUI spec](https://github.com/peoples-fund/peoples-fund/blob/master/docs/gui-spec.md) for front-end related reqs
+See the [GUI spec](gui-spec.md) for front-end related reqs
 
 ## References
 [http://peoplesfundglobal.org/](http://peoplesfundglobal.org/)
