@@ -57,6 +57,6 @@ Please note that the `/www/www` has been left out
 
 1. Go to https://peoplesfundglobal.org/user
 
-2. Click on "File Browser"
+2. Click on the "File Browser" tab
 
-3. Click on "Upload" etc (see instructions under option 1 above)
+3. Click on "Upload" etc (see instructions under [option 1](#option-1-the-easy-way) above)
