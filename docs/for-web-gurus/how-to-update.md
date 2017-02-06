@@ -1,7 +1,9 @@
 
 ## Updating Drupal core (minor version update)
 
-***Please do not attempt this update without having consulted with a tech nerd first*** If you do please make sure to take a backup first, as described below
+Please note that update is different from upgrade. Update is moving within the minor versions like 7.x or 7.0.x, where "x" is the value that is changing. (Upgrade is moving between major versions and is something that is a much bigger task and that we don't want to do without careful consideration)
+
+***Please do not attempt this update if you are not sure of what you are doing*** And please make sure to do a backup of the files and database before updating the system
 
 *After having read the notes below in this section,* please follow these instructions: **https://www.drupal.org/node/1223018**
 
