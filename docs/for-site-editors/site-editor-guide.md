@@ -1,6 +1,5 @@
 
 This guide is for people that want to do tasks like:
-* Adding and updating blog posts
 * Occasionally updating static pages ("basic pages" in Drupal)
 * Analyze user statistics in CiviCRM
 * ___
