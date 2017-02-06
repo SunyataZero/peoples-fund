@@ -6,6 +6,9 @@ These are the requirements for the version of the website for the autumn 2016. F
 
 Please note that these requirements may change in the future. This may result in data loss and other consequences in the future if we (for example) change technical systems. For more information about risks, please see a separate document
 
+## Context
+
+See the [GUI spec](https://github.com/peoples-fund/peoples-fund/blob/master/docs/gui-spec.md) for front-end related reqs
 
 ## References
 [http://peoplesfundglobal.org/](http://peoplesfundglobal.org/)
@@ -73,7 +76,8 @@ Address | Essential |
 Gender | Essential |
 Birthday | Essential |
 Profession | Medium |
-Main areas of interest | Medium | list of topic areas that can be added to an empty list to the right of it by clicking a button: [>>] 
+Main areas of interest | Medium | list of topic areas that can be added to an empty list to the right of it by clicking a button: [>>]
+
 ### Website and organization membership
 * Priority: High
 * Description: A user who has a login is a member and vice versa. You become a member by signing up on the website. The membership status will be stored in a database. *This will be the important interface to the future functionality* when we want users to vote, and when we want people to apply for funds
