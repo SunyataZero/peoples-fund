@@ -1,6 +1,6 @@
 
 
-We have added these lines to enforce https:
+We have added these lines in the `.htaccess` file to enforce https:
 
 ```
 # Added by Sunyata for Peoples Fund to enforce https/ssl:
