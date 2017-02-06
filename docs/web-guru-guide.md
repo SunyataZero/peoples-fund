@@ -4,8 +4,7 @@
 
 ## Updating modules
 
-## Updating Drupal core
-(Minor version update)
+## Updating Drupal core (minor version update)
 
 ***Please do not attempt this update without having consulted with a tech nerd first*** If you do please make sure to take a backup first, as described below
 
@@ -28,10 +27,25 @@ generally no reason to overwrite them in reality.
 
 There may be other files that we have added that we may want to keep (like a favicon file for example)
 
-Here is a complete list of files/directories which we want to keep:
-* `sites` directory
-* robots.txt unless the Drupal release notes says that it needs to be updated, in which case we may also need to talk with the CiviHosting support (in case they have customized the file)
-* .htaccess - as for robots.txt above
+Here are the files/directories which we want to keep:
+
+#### `sites` directory
+
+#### `robots.txt`
+
+..unless the Drupal release notes says that it needs to be updated, in which case we may also need to talk with the CiviHosting support (in case they have customized the file)
+
+At the time of writing there are no known changes made for the `robots.txt` file
+
+#### `.htaccess`
+We have modified this file ourselves so we want to keep these changes
+
+The changes that we have made can be found here:
+https://github.com/peoples-fund/peoples-fund/blob/master/htaccess/htaccess-changes.md
+
+Also as for `robots.txt` above there may be changes by the CiviHosting support
+
+As for `robots.txt` we want to keep the file unless there are instructions in the Drupal release notes
 
 
 ## System status
