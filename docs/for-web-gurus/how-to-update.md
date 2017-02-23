@@ -1,4 +1,9 @@
 
+
+NEW: This is a better way to update core: https://www.drupal.org/docs/7/updating-your-drupal-site/updating-drupal-using-drush
+
+TODO: Write a short guide on this alternative way to update
+
 ## Updating Drupal core (minor version update)
 
 Please note that update is different from upgrade. Update is moving within the minor versions like 7.x or 7.0.x, where "x" is the value that is changing. (Upgrade is moving between major versions and is something that is a much bigger task and that we don't want to do without careful consideration)
