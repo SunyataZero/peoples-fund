@@ -6,6 +6,9 @@ These are the requirements for the version of the website for the autumn 2016. F
 
 Please note that these requirements may change in the future. This may result in data loss and other consequences in the future if we (for example) change technical systems. For more information about risks, please see a separate document
 
+## Context
+
+See the [GUI spec](gui-spec.md) for front-end related reqs
 
 ## References
 [http://peoplesfundglobal.org/](http://peoplesfundglobal.org/)
@@ -23,7 +26,7 @@ i.e. Young/mid-career professionals and students. Our intended primary source of
 
 ## 18-40 year old low- and middle income country (LMIC) inhabitants
 
-The group of people that we represent: We aim for this to be our major membership base. Most LMIC residents do not pay membership fees, but we really need them for expressing their oppinions, rating projects, voting for the board, and submitting applications for funding. 
+The group of people that we represent: We aim for this to be our major membership base. Most LMIC residents do not pay membership fees, but we really need them for expressing their opinions, rating projects, voting for the board, and submitting applications for funding. 
 
 * Priority: High
 * Target roles: rating, voting, applying for funding
@@ -73,7 +76,8 @@ Address | Essential |
 Gender | Essential |
 Birthday | Essential |
 Profession | Medium |
-Main areas of interest | Medium | list of topic areas that can be added to an empty list to the right of it by clicking a button: [>>] 
+Main areas of interest | Medium | list of topic areas that can be added to an empty list to the right of it by clicking a button: [>>]
+
 ### Website and organization membership
 * Priority: High
 * Description: A user who has a login is a member and vice versa. You become a member by signing up on the website. The membership status will be stored in a database. *This will be the important interface to the future functionality* when we want users to vote, and when we want people to apply for funds
@@ -177,6 +181,14 @@ https://docs.google.com/document/d/15bqmE4sUtFoCOZ_ZS85y-yU8SASEVYSFhcC-dPQPvpI/
 We have about $50 per year to spend on plugins
 
 TBD: What is the total sum we can spend on the website per year?
+
+## Website compatible latest versions of major browsers
+
+Both mobile and desktop
+
+Desktop: Chrome, Firefox, Internet Explorer, Safari
+
+Mobile: Chrome, Firefox, Safari
 
 
 ***
