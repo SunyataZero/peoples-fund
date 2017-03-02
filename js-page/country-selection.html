@@ -183,7 +183,6 @@ and open the template in the editor.
                     case "BN":
                     case "CA":
                     case "CY":
-                    case "DK":
                     case "EE":
                     case "FO":
                     case "FI":
@@ -212,19 +211,27 @@ and open the template in the editor.
                     case "AE":
                     case "GB":
                     case "US":
-                    default:
                         if(isMonthlyBool){
                             window.location.href="http://peoplesfundglobal.org/civicrm/contribute/transact?reset=1&id=10&action=preview"
                         }else{
                             window.location.href="http://peoplesfundglobal.org/civicrm/contribute/transact?reset=1&id=9&action=preview"
                         }
                         break;
+                    case "DK":
+                        if(isMonthlyBool){
+                            window.location.href="http://peoplesfundglobal.org/civicrm/contribute/transact?reset=1&id=20&action=preview"
+                        }else{
+                            window.location.href="http://peoplesfundglobal.org/civicrm/contribute/transact?reset=1&id=21&action=preview"
+                        }
+                        break;
+                    default:
+                        window.alert("Error: Country not found. Please contact support here: https://peoplesfundglobal.org/contact");
                 }
             }
         </script>
     </head>
     <body>
-        
+    
         <div class="row">
             
             <p>Please select your country:</p>
