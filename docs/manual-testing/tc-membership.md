@@ -1,5 +1,18 @@
 
 
+# References
+
+## CiviCRM User Manual
+
+https://docs.civicrm.org/user/en/stable/membership/online-membership-sign-up/#testing-membership-sign-up-pages
+
+Excerpts:
+
+> Try and put yourself in the eyes of someone who wants to become a member of your organisation and go through the process a number of times, with different combinations of fields each time. Make sure that the data all appears as you would expect in CiviCRM. Once you've tested the process and have made any necessary changes, get other members of staff or friends from outside your organisation to test the process.
+
+> It is worthwhile periodically testing and reviewing your membership process to make sure that it is as smooth as possible. You will receive indirect feedback from your members as they use the form. If they are not entering data in the way you intended then you will need to make some changes. From time to time, you may want to solicit direct feedback from people who have recently become members to see how easy it was for them to become a member and ask their opinions on ways in which you could improve your form.
+
+
 # Prerequisites
 
 * an email address
@@ -47,8 +60,15 @@ Monthly
 
 10. Go to your email client for the email address you entered at the start
 
-11. Verify that you have gotten a thank you message - {NOK for Tord at the time of writing}
+11. Verify that you have gotten a thank you message - {***NOK for Tord at the time of writing***}
 
-12. Log in to your peoplesfundglobal.org org account: https://peoplesfundglobal.org/user
+12. Log in to your peoplesfundglobal.org account: https://peoplesfundglobal.org/user
 
+13. Using the menu: "Memberships" -> "Find Memberships"
+
+14. Important: Choose "Yes" for "Membership is a test"
+
+15. Click "Search" - {***NOK for Tord at the time of writing***}
+
+16. 
 
