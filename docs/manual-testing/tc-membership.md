@@ -62,7 +62,11 @@ Monthly
 
 10. Go to your email client for the email address you entered at the start
 
-11. Verify that you have gotten a thank you message - {***NOK for Tord at the time of writing***}
+11. Verify that you have gotten a thank you message similar to this one - {***NOK for Tord at the time of writing***}
+
+> Thank you so much for your support to The People's Fund!
+> 
+> You have joined our movement, congratulations! We are a fund of the people, by the people, for the people, and without your support we couldn't exist. Now let's make positive change happen for those that need it the most.
 
 12. Log in to your peoplesfundglobal.org account: https://peoplesfundglobal.org/user
 
@@ -74,3 +78,17 @@ Monthly
 
 16. 
 
+
+Later on you should get another email message similar to this one:
+
+> Recurring Contribution Notification
+> 
+> Dear Tord Dellsén,
+> 
+> Thanks for your auto renew membership sign-up.
+> 
+> This membership will be automatically renewed every 1 month(s).
+> 
+> This membership will be renewed automatically. You can cancel the auto-renewal option by visiting this web page.
+
+***OK for Tord, but it takes a long time (got the email after 12 hours or so, maybe these emails are sent out only once per day?)***
