@@ -92,3 +92,6 @@ Later on you should get another email message similar to this one:
 > This membership will be renewed automatically. You can cancel the auto-renewal option by visiting this web page.
 
 ***OK for Tord, but it takes a long time (got the email after 12 hours or so, maybe these emails are sent out only once per day?)***
+
+
+**TODO: testing ending a donation**
