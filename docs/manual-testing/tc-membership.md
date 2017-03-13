@@ -15,6 +15,14 @@ Excerpts:
 > It is worthwhile periodically testing and reviewing your membership process to make sure that it is as smooth as possible. You will receive indirect feedback from your members as they use the form. If they are not entering data in the way you intended then you will need to make some changes. From time to time, you may want to solicit direct feedback from people who have recently become members to see how easy it was for them to become a member and ask their opinions on ways in which you could improve your form.
 
 
+# Not just testing
+
+Because of the limitations with running in "test mode" we may want to have a wider approach to QA (quality assurance) in the case of memberships. Some things that can help to increase the chance that we find errors:
+* Testing
+* Careful monitoring of the memberships and the transactions inside of CiviCRM
+* Communicating with the users that have signed up
+
+
 # Prerequisites
 
 * an email address
