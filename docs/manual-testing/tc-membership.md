@@ -95,7 +95,7 @@ Later on you should get another email message similar to this one:
 
 
 
-## Live + Yearly + cost-free + cancellation
+## Live + Yearly + cost-free
 
 Follow the same procedure as above with these differences:
 
@@ -104,6 +104,15 @@ https://peoplesfundglobal.org/civicrm/contribute/transact?reset=1&id=17
 (Please note in the above url: The "preview" part is not present (cmp with the url in the test above)
 
 Choose "Free membership"
+
+
+
+> Thank you so much for your support to The People's Fund!
+> 
+> You have joined our movement, congratulations! We are a fund of the people, by the people, for the people, and without your support we couldn't exist. Now let's make positive change happen for those that need it the most.
+> 
+> Please consider the environment before printing this receipt.
+
 
 
 **TODO: testing ending a donation**
