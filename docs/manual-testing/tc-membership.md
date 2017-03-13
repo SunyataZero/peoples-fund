@@ -27,7 +27,7 @@ Excerpts:
 
 # Procedure
 
-
+*Please note that this test is run in "test mode" which limits it's usefulness* (see KarinG's answer [here](https://civicrm.stackexchange.com/questions/17504/error-message-when-testing-memberships-expected-one-paymentprocessor-but-found))
 
 Monthly
 
