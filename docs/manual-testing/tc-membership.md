@@ -22,8 +22,12 @@ Excerpts:
 * a people's fund account (drupal)
 
 
-* 
+# Scope
 
+What is not tested:
+* Auto-renew
+* Cancellation of auto-renew
+* 
 
 # Procedure
 
@@ -115,11 +119,6 @@ Choose "Free membership"
 
 
 
-**TODO: testing ending a donation**
-
-
-
-
-
+**TODO: testing ending a auto-renew ("recurring") donation**
 
 
