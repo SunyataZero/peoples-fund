@@ -29,7 +29,7 @@ Excerpts:
 
 *Please note that this test is run in "test mode" which limits it's usefulness* (see KarinG's answer [here](https://civicrm.stackexchange.com/questions/17504/error-message-when-testing-memberships-expected-one-paymentprocessor-but-found))
 
-Monthly
+## Monthly + non-cost-free
 
 0. Log out of the peoples fund website (If you are logged in)
 
@@ -94,4 +94,23 @@ Later on you should get another email message similar to this one:
 ***OK for Tord, but it takes a long time (got the email after 12 hours or so, maybe these emails are sent out only once per day?)***
 
 
+
+## Live + Yearly + cost-free + cancellation
+
+Follow the same procedure as above with these differences:
+
+https://peoplesfundglobal.org/civicrm/contribute/transact?reset=1&id=17
+
+(Please note in the above url: The "preview" part is not present (cmp with the url in the test above)
+
+Choose "Free membership"
+
+
 **TODO: testing ending a donation**
+
+
+
+
+
+
+
