@@ -1,5 +1,8 @@
 
 
+Question by SunyataZero on civicrm.stackexchange: [Quality assurance considerations for membership signups](https://civicrm.stackexchange.com/questions/17691/quality-assurance-considerations-for-membership-signups)
+
+
 # References
 
 ## CiviCRM User Manual
