@@ -21,7 +21,12 @@ TODO: Describe the difference between updates (modules, theme, core minor, core 
 
 ## Intro
 
+### Different types of updates
 Please note that a "minor version update" is different from an "upgrade". When doing a minor version update we are moving within the minor versions like 7.x or 7.0.x, where "x" is the value that is changing. (Upgrade is moving between major versions and is something that is a much bigger task and that we don't want to do without careful consideration)
+
+There are also updates to Drupal modules and Drupal themes
+
+Updates of CiviCRM is outside the scope of this document
 
 
 ## Updating Drupal core (minor version update) using drush
@@ -38,7 +43,7 @@ drush is a command line tool
 
 1. Read the release notes for this update. The release notes for Drupal versions can be found here: https://www.drupal.org/project/drupal/releases (it's possible that you need to read several in case more than one update has been made to the major version of Drupal since the last time you made a minor version update)
 2. Backup files, database (and possibly email) using this guide: https://github.com/peoples-fund/peoples-fund/blob/master/docs/howto-manual-backup.md
-3. Extract the relevant files after reading "Which files to keep" locally to a separate directory so that they are easily available to restore later on
+3. Extract the relevant files after reading ["Which files to keep"](#which-files-to-keep) locally to a separate directory so that they are easily available to restore later on
 4. Follow these instructions: https://www.drupal.org/node/1223018
 
 ### .. using drush
