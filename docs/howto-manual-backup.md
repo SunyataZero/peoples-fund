@@ -1,4 +1,4 @@
-## Manual backup
+## How to take a manual backup
 
 ### Background and context
 
