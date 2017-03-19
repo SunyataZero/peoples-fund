@@ -1,24 +1,4 @@
 
-
-NEW: This is a better way to update core: https://www.drupal.org/docs/7/updating-your-drupal-site/updating-drupal-using-drush
-
-TODO: Write a short guide on this alternative way to update
-
-TODO: Describe the difference between updates (modules, theme, core minor, core major)
-
-
-
-## Table of Contents
-
-0. Intro
-1. Updating minor version of Drupal
-2. Updating modules in Drupal
-3. Updating
-
-9. Updating minor version of CiviCRM
-
-
-
 ## Intro
 
 ### Different types of updates
@@ -46,7 +26,7 @@ drush is a command line tool
 3. Extract the relevant files after reading ["Which files to keep"](#which-files-to-keep) locally to a separate directory so that they are easily available to restore later on
 4. Follow these instructions: https://www.drupal.org/node/1223018
 
-### .. using drush
+### .. using drush (prefered)
 
 Alternatively instead of the last step above ("follow these instructions") we can do this:
 
