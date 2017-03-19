@@ -36,6 +36,15 @@ Alternatively instead of the last step above ("follow these instructions") we ca
 
 ## Updating Drupal modules
 
+1. Backup files, database (and possibly email) using this guide: https://github.com/peoples-fund/peoples-fund/blob/master/docs/howto-manual-backup.md
+2. Put the site into maintanance mode: http://peoplesfundglobal.org/admin/config/development/maintenance
+3. Go to https://peoplesfundglobal.org/admin/reports/updates/update
+4. Select all modules by clicking on the checkbox in the upper left corner
+5. Click on "Download these updates"
+6. Click on "Continue"
+7. Click on "Run database updates"
+8. Click on "Continue"
+9. Take the site out of maintanence mode: https://peoplesfundglobal.org/admin/config/development/maintenance
 
 
 ## Which files to keep
@@ -65,8 +74,3 @@ https://github.com/peoples-fund/peoples-fund/blob/master/htaccess/htaccess-chang
 Also as for `robots.txt` above there may be changes by the CiviHosting support
 
 As for `robots.txt` we want to keep the file unless there are instructions in the Drupal release notes
-
-***
-
-Maintanence mode:
-http://peoplesfundglobal.org/admin/config/development/maintenance
