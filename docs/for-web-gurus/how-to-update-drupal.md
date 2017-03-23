@@ -11,10 +11,6 @@ Updates of CiviCRM is outside the scope of this document
 
 ## Updating Drupal core (minor version update) using drush
 
-drush is a command line tool
-
-1. Backup files, database (and possibly email) using this guide: https://github.com/peoples-fund/peoples-fund/blob/master/docs/howto-manual-backup.md
-
 
 ## Updating Drupal core (minor version update)
 
