@@ -9,9 +9,6 @@ There are also updates to Drupal modules and Drupal themes
 Updates of CiviCRM is outside the scope of this document
 
 
-## Updating Drupal core (minor version update) using drush
-
-
 ## Updating Drupal core (minor version update)
 
 
@@ -27,7 +24,8 @@ Updates of CiviCRM is outside the scope of this document
 Alternatively instead of the last step above ("follow these instructions") we can do this:
 
 1. Log in to peoplesfundglobal.org through `ssh`, for example by using putty, OpenSSH, or just ssh-ing in via the command line `ssh _username_@peoplesfundglobal.org` (you will need the user name and password)
-2. Follow the instructions here: https://www.drupal.org/docs/7/updating-your-drupal-site/updating-drupal-using-drush (Please note: I (Tord) have not tried updating using drush)
+2. Change directory to the installation directory for Drupal: `cd www/www/`
+3. Follow the instructions here: https://www.drupal.org/docs/7/updating-your-drupal-site/updating-drupal-using-drush (Please note: I (Tord) have not tried updating using drush)
 
 
 ## Updating Drupal modules
