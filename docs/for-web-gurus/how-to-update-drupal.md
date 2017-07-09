@@ -68,3 +68,17 @@ https://github.com/peoples-fund/peoples-fund/blob/master/htaccess/htaccess-chang
 Also as for `robots.txt` above there may be changes by the CiviHosting support
 
 As for `robots.txt` we want to keep the file unless there are instructions in the Drupal release notes
+
+## How to get the files that we want to keep
+1. Log onto peoplesfundglobal.org/cp
+2. Go to file manager
+3. Tick the boxes next to sites, robots.txt and .htaccess
+4. click "add to archive" below
+5. click "add to archive" in the pop-up window
+6. open your terminal
+7. copy-paste this command: scp peoplesfund@peoplesfundglobal.org:/home/peoplesfund/www/www/_nameofthenewfileyouvejustcreated_ /yourlocalpathwaytotargetdownload folder
+8. type in the password it asks for
+
+Should download.
+
+(String for Fred to use: scp peoplesfund@peoplesfundglobal.org:/home/peoplesfund/www/www/_nameofthenewfileyouvejustcreated_ /Users/frederikfederspiel/downloads)
