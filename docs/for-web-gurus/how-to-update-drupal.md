@@ -73,11 +73,11 @@ As for `robots.txt` we want to keep the file unless there are instructions in th
 1. Log onto peoplesfundglobal.org/cp
 2. Go to file manager
 3. Tick the boxes next to sites, robots.txt and .htaccess
-4. click "add to archive" below
-5. click "add to archive" in the pop-up window
-6. open your terminal
-7. copy-paste this command: scp peoplesfund@peoplesfundglobal.org:/home/peoplesfund/www/www/_nameofthenewfileyouvejustcreated_ /yourlocalpathwaytotargetdownload folder
-8. type in the password it asks for
+4. Click "add to archive" below
+5. Click "add to archive" in the pop-up window
+6. Open your terminal
+7. Copy-paste this command: scp peoplesfund@peoplesfundglobal.org:/home/peoplesfund/www/www/_nameofthenewfileyouvejustcreated_ /yourlocalpathwaytotargetdownloadfolder
+8. Type in the password it asks for
 
 Should download.
 
