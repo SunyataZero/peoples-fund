@@ -82,17 +82,8 @@ Main areas of interest | Medium | list of topic areas that can be added to an em
 * Priority: High
 * Description: A user who has a login is a member and vice versa. You become a member by signing up on the website. The membership status will be stored in a database. *This will be the important interface to the future functionality* when we want users to vote, and when we want people to apply for funds
 
-The categories that we want for logged-in users:
 
-User group | Notes
----|---
-Admins |
-Members |
-Non-members |
-
-IMPORTANT: We will need two login-systems: One for members, and one for applicants. Applicants only have access to the application form, but this is stored so they can log in and out and add information before submitting. Everything else is available only to members, i.e. rating projects, accessing training material etc.
-
-* *Applicants for funds* can be members or non-members. If non-members, they only have access to the application form.
+* *Applicants for funds* can be members or non-members.
 * *Ambassadors* are members only. They can not apply for funding.
 * *Admins* are members only. They can not apply for funding.
 * *active volunteers* are members only. They can not apply for funding.
@@ -100,8 +91,7 @@ IMPORTANT: We will need two login-systems: One for members, and one for applican
 
 ## Membership fees
 * Priority: Essential
-* Description: 15, 13, 11, 9 and 0 € per year depending on country income group.
-* Risk at system change:
+* * Risk at system change:
 
 ## Recurring contributions
 * Priority: Essential
@@ -199,7 +189,7 @@ Mobile: Chrome, Firefox, Safari
 ## *Funding application ("Apply for funding")*
 Aka: "Project application submission portal"
 
-Will most probably be put on the website (rather than in a separate portal) so everything easily integrated into one plugin/module
+Will most probably be put on the website (rather than in a separate portal) so everything easily integrated into one plugin/module. Could also just be a simple PDF-application template with no online application portal.
 
 
 ## *Funding evaluation system*
@@ -208,18 +198,7 @@ Will most probably be put on the website (rather than in a separate portal) so e
 
 > Step 2: A local survey (logistically very complicated - suggestions very welcome!!). Mobile phone based surveymonkey-survey? Paper?
 
-> Step 3: The member rating portal: How to translate an equation of weighted variables (i.e. impact rating *08 + sustainability rating *0.7 + cost-effectiveness rating * 0.6 ... = Total rating) into code. This would be in a portal environment where you first read about the project and click rating values from 1-5 on a number of different parameters, with some help on the way, including any tricks that make it fun to rate, and some control mechanisms to ensure that the user has actually read the application, and then a final thank you/pad on your shoulder when you're done rating a project.
-
-
-
-## Discussion forum
-  * General member discussion forum
-   * All members and volunteers have read and write access to this forum. Will be the largest forum, available to everyone with a login
-  * Country-level volunteers forums
-   * One for each country we have country ambassadors in, and then all the volunteers in that country can login to his/her individual country forum
-    * All board members, all country ambassadors and all admin accounts have read and write access to all country-level forums
-    * Within-country volunteers have read and write access to the forum within their country
- 
+> Step 3: The member rating portal: How to translate an equation of weighted variables (i.e. impact rating *08 + sustainability rating *0.7 + cost-effectiveness rating * 0.6 ... = Total rating) into code. This would be in a portal environment where you first read about the project and click rating values from 1-5 on a number of different parameters.
 
 ## Blog posts (news items)
 
@@ -243,7 +222,9 @@ TBD: Investigate what this means
 
 
 ## Paypal integration for one-time donations
-
+ important
+ 
 ## Paypal integration for membership payments
 
+accomplished
 
